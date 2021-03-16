@@ -1,4 +1,8 @@
 This package is used to update spreadsheet with data from Jira.
+# Dependencies (OSX)
+
+1. A copy of this repo
+2. Python 2.7+ installed
 
 # Pre-equisite
 To run this script you will first need to create a service account and auth credentials by running these steps:
