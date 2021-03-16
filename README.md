@@ -7,7 +7,7 @@ This package is used to update spreadsheet with data from Jira.
 # Pre-equisite
 To run this script you will first need to create a service account and auth credentials by running these steps:
 
-1. Go to the Google APIs Console.
+1. Go to the .[Google APIs Console](https://console.developers.google.com/projectselector2/apis/dashboard?supportedpurview=project)
 2. Create a new project.
 3. Click Enable API. Search for and enable the Google Drive API.
 4. Create credentials for a Web Server to access Application Data.
