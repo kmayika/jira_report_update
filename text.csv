@@ -1,0 +1,289 @@
+key,title,created,updated,automation_status,label,reporter
+QA-5779,API | Refunds | Get summary of customer credit balance,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5780,API | Refunds | Get detail information of customer credit balance,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5781,API | Refunds | Get paged credit history,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5782,API | Refunds | Get refund request form,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5783,API | Refunds | Create Refund Request,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5784,API | Refunds | Get paged refund history,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5785,API | Refunds | Get detail information of customer refund request,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5786,API | Refunds | Submit Contact Customer Service Form,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5787,API | Refunds | Get Contact Customer Service Form,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5788,API | Refunds | Get detailed information of customer credit balance after adding credits to user account,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5790,API | Refunds | Get detailed information of customer credit balance after deducting credits from user account,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5791,API | Refunds | Get detail information of customer refund request. Pass incorrect authorization token,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5792,API | Refunds | Bad Request | Pass incorrect request to the endpoints,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5793,API | Refunds | 403 - Forbidden,2020-12-24,2020-12-24,Automated,,rifaat.royepen@takealot.com
+QA-5794,API | Refunds | Internal Server Error,2020-12-24,2020-12-24,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5795,API | Refunds | 503 Service Unavailable,2020-12-24,2020-12-24,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5796,API | Wishlist | Pyramid-Wishlist-Service | Get Wishlist Groups | get_wish_groups,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5797,API | Wishlist | Pyramid-Wishlist-Service | Create new wish group | create_wish_group,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5798,API | Wishlist | Pyramid-Wishlist-Service | Refresh the whole wishlist by given customer | refresh_wishlist,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5799,API | Wishlist | Pyramid-Wishlist-Service | Merge guest wishlist items with logged in customer,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5800,API | Wishlist | Pyramid-Wishlist-Service | Get specific wish group,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5801,API | Wishlist | Pyramid-Wishlist-Service | Delete wish group,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5802,API | Wishlist | Pyramid-Wishlist-Service | Get wish items under specified group,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5803,API | Wishlist | Pyramid-Wishlist-Service | Add product to wish list,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5804,API | Wishlist | Pyramid-Wishlist-Service | Remove product from wish list,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5805,API | Wishlist | Storefront BFF | Get Wishlist Groups | get_wish_groups,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5806,API | Wishlist | Storefront BFF | Delete Wishlist,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5807,API | Wishlist | Storefront BFF | Create new Wishlist,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5808,API | Wishlist | Storefront BFF | Get specific wishlist,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5809,API | Wishlist | Storefront BFF | Get wishlist items,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5810,API | Wishlist | Storefront BFF | Add product to wishlist,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5811,API | Wishlist | Storefront BFF | Remove product from wishlist,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5812,API | Search | Storefront Search BFF | Document Collections | Sort Options,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5813,API | Search | Storefront Search BFF | Document Collections | Products,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5814,API | Search | Storefront Search BFF | Document Collections | Related Searches,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5815,API | Search | Storefront Search BFF | Document Collections | Search Suggestions,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5816,API | Search | Storefront Search BFF | Document Collections | Facets,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5817,API | Search | Storefront Search BFF | Document Collections | Breadcrumbs,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5818,API | Search | Storefront Search BFF | Document Collections | Product Count,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5819,API | Search | Storefront Search BFF | Document Collections | Auto Complete,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5820,API | Search | Storefront Search BFF | Document Collections | Trending,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5821,API | Search | Search BFF | Auto Complete | Get suggested search queries for a partial query,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5822,API | Search | Search BFF | Search Suggestions,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5823,API | Search | Search BFF | Related Searches,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5824,API | Search | Search BFF | Perform Search,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5825,API | Search | Search BFF | Trending Searches,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5826,API | Cart | Add essential Products to Cart | test_add_to_cart_essential,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5827,API | Cart | Test Cart limit | More than 5 items | test_add_to_cart_limit,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5828,API | Cart | Adding out-of-stock product to cart | test_add_to_cart_not_available,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5829,API | Cart | Update products in Cart | test_update_products_in_cart,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5830,API | Cart | Removing products from cart | test_remove_products_from_cart,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5831,API | Cart | Getting customer's cart | test_get_customers_cart,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5832,API | Cart | Getting items in customer's cart | test_get_customers_cart_items,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5833,API | Cart | Update items in customer's cart | test_update_customers_cart_items,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5834,API | Ecom BFF | CMS | Route a link | get_route,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5835,API | Ecom BFF | CMS | Get Merchandised Departments | get_merchandised_departments,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5836,API | Ecom BFF | Get Types | get_legacy_merchandised_departments,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5837,API | Ecom BFF | CMS | Get the root level page,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5838,API | Ecom BFF | CMS | Get whether the given slug has a published wagtail page,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5839,API | Ecom BFF | CMS | Get the root level page context,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5840,API | Ecom BFF | CMS | Get the root level page revision,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5841,API | Ecom BFF | CMS | Get the specified context of the  specific revision of the root level page,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5842,API | Ecom BFF | CMS | Get a page,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5843,API | Ecom BFF | CMS | Get whether the given slug has a published wagtail page,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5844,API | Ecom BFF | CMS | Get the specific context of the page,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5845,API | Ecom BFF | CMS | Get the page revision,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5846,API | Ecom BFF | CMS | Get the specified context of the specific revision of the page,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5847,API | Ecom BFF | CMS | Retrieve the flyouts from Mongo,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5848,API | Ecom BFF | CMS | Retrieve the Top Nav Entries for a given page from CMS,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5849,API | Ecom BFF | CMS | get_merchandised_department,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5850,API | Ecom BFF | Other | Get current running api version information,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5851,API | Ecom BFF | Other | Get based on parameters what the minimum app version is,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5852,API | Ecom BFF | Other | Get current running api version information,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5853,API | Ecom BFF | Other | Get the current config for clients,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5854,API | Ecom BFF | Wishlist | Retrieve wishlist recommendations,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5855,API | Ecom BFF | Checkout | Response samples,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5856,API | Ecom BFF | Checkout | Request samples,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5857,API | Ecom BFF | Checkout | Get current checkout object,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5858,API | Ecom BFF | Checkout | Create checkout object,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5859,API | Ecom BFF | Checkout | Update checkout fields | Shipping Method | Delivery,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5860,API | Ecom BFF | Checkout | Update checkout fields | Delivery Address | Courier Address,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5861,API | Ecom BFF | Checkout | checkout_pickup_points,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5862,API | Ecom BFF | Checkout | Compelete checkout process,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5863,API | Ecom BFF | Checkout | Get un-authorised order object represented in checkout format,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5864,API | Ecom BFF | Product Details | Get a productline using the TSIN ID,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5865,API | Ecom BFF | Product Details | Get a productline using the SKU / Product ID,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5866,API | Ecom BFF | Product Details | Get a productline,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5867,API | Ecom BFF | Product Details | Retrieve reviews for a product line,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5868,API | Ecom BFF | Product Details | Get bundle deals,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5869,API | Ecom BFF | Product Details | Retrieve frequently_bought_together_product_lines,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5870,API | Ecom BFF | Product Details | Retrieve customers also bought,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5871,API | Ecom BFF | Product Details | Retrieve a message for end user using its message identifier,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5872,API | Ecom BFF | Product Details | Retrieve a message for end user using its message identifier and message arguments,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5873,API | Ecom BFF | Recommendations | Retrieve recommendations,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5874,API | Ecom BFF | Recommendations | Retrieve customer recommendations,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5875,API | Ecom BFF | Recommendations | Retrieve trending recommendations,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5876,API | Ecom BFF | Recommendations | Retrieve best selling recommendations,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5877,"API | Ecom BFF | Recommendations | Retrieve wishlist recommendations, passing in plids",2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5878,API | Ecom BFF | Returns | Get available replacement return variants for a given sku,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5879,API | Ecom BFF | Returns | Get available return pickup points based on the products returned,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5880,API | Ecom BFF | Order | Fetches a list of dates for rescheduling a given eligible order's delivery,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5881,API | Ecom BFF | Order | Updates the order's delivery promise date to the supplied reschedule date,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5882,API | Ecom BFF | Customers | Gets a mocked order detail for now | get_orders,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5883,API | Ecom BFF | Order | Gets a mocked order detail for now | get_order_detail,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5884,API | Ecom BFF | Order | Gets tracking information for consignment (for collect/didigal-only order),2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5885,"API | Ecom BFF | Order | Gets tracking information for consignment (for courier order, with waybill number)",2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5886,API | Ecom BFF | Order | Track the payment completion event | payment_complete | POST,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5887,API | Ecom BFF | Order | For a order containing a voucher resend the voucher email,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5888,API | Ecom BFF | Addresses | Get the config for the addresses,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5889,API | Ecom BFF | Addresses | Get a customer's address,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5890,API | Ecom BFF | Addresses | Update customer address,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5891,API | Ecom BFF | Addresses | Delete a customers address,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5892,API | Ecom BFF | Addresses | Get list of addresses for customer,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5893,API | Ecom BFF | Addresses | Create customer address,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5894,API | Ecom BFF | Pick-Up Points | Get a pickup point,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5895,API | Ecom BFF | Pick-Up Points | Get list of pickup points,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5896,API | Ecom BFF | Customer Login | legacy_login | POST,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5897,API | Ecom BFF | Customer Login | customer_login | POST,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5898,API | Ecom BFF | Guest Login,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5899,API | Ecom BFF | Create guest session,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5900,API | ,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5901,API | Ecom BFF | Customers | Get summary for customer,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5902,API | Ecom BFF | Customers | Impersonate Login,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5903,API | Ecom BFF | Customers | Customer Logout,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5904,API | Ecom BFF | Customers | Fetch cart for given customer,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5905,API | Ecom BFF | Customers | Add products to a customers wishlist,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5906,API | Ecom BFF | Customers | Remove wishlist items from a guests default wishlist,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5907,API | Ecom BFF | Get the Seller's infomation by using the seller id,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5908,API | Ecom BFF | Customers | Add cart items | Instock item | Quantity > 5,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5909,API | Ecom BFF | Customers | Add cart items | Unavailable item,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5910,API | Ecom BFF | Customers | Update cart items,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5911,API | Ecom BFF | Customers | Remove cart items,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5912,API | Ecom BFF | Customers | Get a customers wishgroup from its id | get_wishgroup_by_id,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5913,API | Ecom BFF | Customers | Delete a customers wishgroup | delete_wishgroup,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5914,API | Ecom BFF | Customers | Get the items in a wishgroup | get_wishgroup_items_by_id,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5915,API | Ecom BFF | Customers | Add/remove the items in a wishgroup | update_wishgroup_items,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5916,API | Ecom BFF | Customers | Merge customer wishlist with guest wishlist | merge_customer_wishlist,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5917,API | Ecom BFF | Customers | Get experiment features for given customer | get_customer_features,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5918,API | Ecom BFF | Customers | Check feature variant for given customer | check_customer_feature,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5919,API | Ecom BFF | Customers | Get cart for customer | get_customer_cart,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5920,API | Ecom BFF | Customers | Get cart items for given customer | get_customer_cart_items,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5921,API | Ecom BFF | Customers | Add or remove or move items in customer cart | update_customer_cart_items,2020-12-28,2020-12-28,Automation Candidate,,rifaat.royepen@takealot.com
+QA-5922,API | Ecom BFF | Customers | Get customer information | get_customer,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5923,API | Ecom BFF | Customers | Get data groups (group of forms) for a given customer | get_customer_data_groups,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5924,API | Ecom BFF | Customers | Get section/form list for a given customer | get_customer_data_group,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5925,API | Ecom BFF | Customers | Get section/form | get_customer_data_section,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5926,API | Ecom BFF | Customers | Update section | update_customer_data_section,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5927,API | Ecom BFF | Customers | Merge customer cart with guest cart,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5928,API | Ecom BFF | Categories | Get the Child Categories for a given Department using its ID or Slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5929,API | Ecom BFF | Categories | Get the Category Tree for a given Department using its ID or Slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5930,API | Ecom BFF | Categories | Get the Child Category Information for a given Category using its ID or Slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5931,API | Ecom BFF | Categories | Get the Child Category Tree for a given Category using its ID or Slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5932,API | Ecom BFF | Newsletter | Get newsletter by filters | get_newsletters_legacy,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5933,API | Ecom BFF | Newsletter | Get newsletter by slug | get_newsletter_by_slug_legacy,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5934,API | Ecom BFF | Newsletter | Get newsletter by filters | get_newsletters,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5935,API | Ecom BFF | Newsletter | Get newsletter by slug | get_newsletter_by_slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5936,API | Ecom BFF | Subscribers | Create a newsletter subscriber (together with their newsletter subscriptions) | upsert_guest_subscriber,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5937,API | Ecom BFF | Subscribers | Returns a subscriber matching the given customer_id | flyout_subscribe,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5938,API | Ecom BFF | Subscribers | Get subscriber by customer_id | get_subscriber,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5939,API | Ecom BFF | Subscribers | Create subscriber by customer_id | create_subscriber,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5940,API | Ecom BFF | Subscribers | Update subscriber by customer_id | update_subscriber,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5941,API | Ecom BFF | Subscribers | Delete subscriber by customer_id | delete_subscriber,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5942,API | Ecom BFF | Subscribers | Subscribe to a newsletter flyout | customer_flyout_subscribe,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5943,API | Ecom BFF | Subscribers | Find a subscriber by a hash key | get_subscriber_hash,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5944,API | Ecom BFF | Subscribers | Update a subscriber by a hash key | update_subscriber_hash,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5945,API | Ecom BFF | Subscribers | delete a subscriber by a hash key | delete_subscriber_hash,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5946,API | Ecom BFF | Subscribers | delete a subscriber by a hash key | delete_subscriber_hash,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5947,API | Split Storefront BFF | CMS | Fetch the generated wagtail page for a given slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5948,API | Split Storefront BFF | CMS | Fetch the generated wagtail subpage for a given slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5949,API | Split Storefront BFF | CMS | Get the Document specified by the slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5950,API | Split Storefront BFF | CMS | Fetch the generated wagtail flyouts,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5951,API | Split Storefront BFF | CMS | Fetch a list of all of the newsletters matching the query,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5952,API | Split Storefront BFF | CMS | Fetch a single newsletter based on its slug,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5953,API | Split Storefront BFF | CMS | Fetch a list of merchandised departments,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5954,API | Split Storefront BFF | CMS | Fetch a single merchandised department matching given selector,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5955,API | Split Storefront BFF | CMS | Retrieve the Top Nav Entries for a given page from CMS,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5956,API | Split Storefront BFF | CMS | Fetch the list of categories which belong to a given department,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5957,API | Split Storefront BFF | CMS | Fetch the category tree which belong to a given department,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5958,API | Split Storefront BFF | CMS | Fetch the category information for a given selector,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5959,API | Split Storefront BFF | CMS | Fetch the category tree which belong to a given category,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-5960,API | Split Storefront BFF | CMS | Fetch the routing information for a given link,2020-12-28,2020-12-28,Automated,,rifaat.royepen@takealot.com
+QA-6058,Web|Search Listing Page | Clear All should reset search results ,2021-01-14,2021-01-17,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6059,Web| Search Listing Page | Disable Load More button when apply filter,2021-01-14,2021-01-17,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6060,Web | Newsletter | Newsletter popup should not remain after navigation,2021-01-15,2021-01-17,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6064,Web | PickUp Points | Display Pickup points,2021-01-15,2021-01-18,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6065,WEB | Checkout | Cancel Payment ,2021-01-15,2021-01-15,Not automated,,leroy.hanslo@takealot.com
+QA-6066,WEB | Checkout | Successful payment via Awaiting Payment,2021-01-15,2021-01-15,Not automated,,leroy.hanslo@takealot.com
+QA-6073,WEB | Checkout | Part-payments via eBucks,2021-01-18,2021-01-19,Not automated,,leroy.hanslo@takealot.com
+QA-6076,WEB | Checkout | Payments flagged 'High Risk',2021-01-18,2021-01-18,Not automated,,leroy.hanslo@takealot.com
+QA-6084,WEB | Search Listing | Sponsored Ads | Verify Sponsored ad information is displayed,2021-01-18,2021-03-05,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6085,WEB | Search Listing | Sponsored Ads | Verify Sponsored ad information is displayed | Click on tooltip,2021-01-18,2021-03-05,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6086,WEB | Search Listing | Sponsored Ads | Verify Sponsored ad information is displayed | age restriction,2021-01-18,2021-03-05,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6088,Web | PDP | Add to Cart | Added to Cart drawer display,2021-01-18,2021-01-21,Not automated,,pinkie.dyantyi@takealot.com
+QA-6089,Web | PDP | Added to Cart functionality,2021-01-19,2021-01-21,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6090,WEB | Checkout | Successful payment via Credits,2021-01-19,2021-01-19,Not automated,,leroy.hanslo@takealot.com
+QA-6092,Web | PDP | Added to Cart drawer should not display on small screens,2021-01-19,2021-01-21,Not automated,,pinkie.dyantyi@takealot.com
+QA-6109,WEB | Product Cards - Display daily badge,2021-01-20,2021-01-21,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6110,WEB | Product Cards - Display Top Pick badge,2021-01-20,2021-01-21,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6111,WEB | Search Listing | Sponsored Ads - Error UTEs,2021-01-20,2021-03-05,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6114,WEB | Search Listing | Sponsored Ads | A/B Test,2021-01-20,2021-03-05,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6153,WEB | Product cards | Display product images,2021-01-20,2021-01-21,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6154,WEB | Product cards | Display “No Product Image” placeholder,2021-01-20,2021-01-21,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6155,WEB | Product cards | Display placeholder while in loading state,2021-01-20,2021-01-21,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6160,"WEB | Product Cards - ""% off"" badge",2021-01-20,2021-01-21,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6196,WEB | Product Cards - Display sale badge,2021-01-21,2021-01-21,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6288,Web | Swiper | PDP,2021-01-27,2021-01-27,Not automated,,pinkie.dyantyi@takealot.com
+QA-6298,Web | Swiper | Trending Products,2021-01-27,2021-01-27,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6309,Web | Wishlist | Recommended for you,2021-01-27,2021-01-27,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6310,Web | Wishlist | Trending Now,2021-01-27,2021-01-27,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6318,API | Storefront Payment BFF | Payment | POST Order payment | Payfast,2021-01-28,2021-02-18,Not automated,,leroy.hanslo@takealot.com
+QA-6321,API | Storefront Payment BFF | Payment | POST Sbux payment | Sbux,2021-01-28,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6369,WEB | Search Listings | filter by price,2021-01-29,2021-01-29,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6382,API | Storefront BFF | Customer | Post customer credits | Invalid voucher,2021-02-01,2021-02-05,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6383,API | Storefront BFF | Customer | Post customer credits | Success with valid voucher,2021-02-01,2021-02-01,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6385,API | Storefront BFF | Customer | Get customer credits | Customer credits history,2021-02-01,2021-02-02,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6386,API | Storefront BFF | Customer | Get customer credits | Customer credits history error,2021-02-01,2021-02-01,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6390,API | Storefront BFF | Customer | Post customer credits | Redeemed voucher,2021-02-01,2021-02-02,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6437,API | Storefront BFF | Order | Get Order Items | On hold order,2021-02-02,2021-02-03,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6438,API | Storefront BFF | Order | Get Order Items | New order,2021-02-02,2021-02-03,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6439,API | Storefront BFF | Order | Get Order Items | Shipped order,2021-02-02,2021-02-03,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6444,API | Storefront BFF | Order | Get Order Items | Canceled,2021-02-03,2021-02-03,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6445,API | Storefront BFF | Order | Get Order Items | Error,2021-02-03,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6487,Web | Returns | Track Return button,2021-02-03,2021-02-03,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6488,Mobi | Returns | Track Return Arrow,2021-02-03,2021-02-03,Automation Candidate,,pinkie.dyantyi@takealot.com
+QA-6524,Web | Mobi | Session Management | Network calls and cookies,2021-02-05,2021-02-05,Not automated,,pinkie.dyantyi@takealot.com
+QA-6533,API | Storefront BFF | Customer | Post customer credits | Invalid voucher (illustration),2021-02-05,2021-02-05,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6534,Mobi | Saved Credit Card - Delete button,2021-02-05,2021-02-05,Not automated,,pinkie.dyantyi@takealot.com
+QA-6535,Mobi | Saved Credit Card - Delete functionality,2021-02-05,2021-02-05,Not automated,,pinkie.dyantyi@takealot.com
+QA-6567,API | Storefront Payment BFF | Payment | POST Order payment | Credit Card,2021-02-09,2021-02-18,Not automated,,leroy.hanslo@takealot.com
+QA-6569,API | Storefront Payment BFF | Payment | POST Order payment | Ozow,2021-02-09,2021-02-18,Not automated,,leroy.hanslo@takealot.com
+QA-6570,API | Storefront Payment BFF | Payment | POST Order payment | COD,2021-02-09,2021-02-18,Not automated,,leroy.hanslo@takealot.com
+QA-6571,API | Storefront Payment BFF | Payment | POST eBucks process payment | eBucks,2021-02-09,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6572,API | Storefront Payment BFF | Payment | Post order payment | Nedbank Personal Loan,2021-02-09,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6573,API | Storefront Payment BFF | Payment | POST Order payment | Discovery Miles,2021-02-09,2021-02-18,Not automated,,leroy.hanslo@takealot.com
+QA-6574,API | Storefront Payment BFF | Payment | POST order payment | Mobicred,2021-02-09,2021-03-10,Not automated,,leroy.hanslo@takealot.com
+QA-6575,API | Storefront Payment BFF | Payment | POST Order payment | MasterPass,2021-02-09,2021-02-18,Not automated,,leroy.hanslo@takealot.com
+QA-6584,WEB | Daily Deals | Display daily deals widget,2021-02-09,2021-02-09,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6585,WEB | Homepage | Daily Deals | Tap on the Product Card,2021-02-09,2021-03-09,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6586,WEB | Daily Deals | View More,2021-02-09,2021-02-09,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6587,WEB | Daily Deals | Scroll on the Daily Deals widget,2021-02-09,2021-02-09,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-6588,API | Storefront BFF | Register | Post previously registered email address error | Desktop,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6589,API | Storefront BFF | Register | Post previously registered email address error | Mobile,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6590,API | Storefront BFF | Register | Post previously registered email address error | Apps Android,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6591,API | Storefront BFF | Register | Post previously registered email address error | Apps iOS,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6592,API | Storefront BFF | Register | Post successful registration | Apps iOS,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6593,API | Storefront BFF | Register | Post successful registration | Apps Android,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6594,API | Storefront BFF | Register | Post successful registration | Mobile,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6595,API | Storefront BFF | Register | Post successful registration | Desktop,2021-02-10,2021-02-10,Automation Candidate,,leroy.hanslo@takealot.com
+QA-6596,API | Storefront Payment BFF | Payment | POST Authenticate eBucks Member | eBucks,2021-02-10,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6597,API | Storefront Payment BFF | Payment | GET eBucks request PIN | eBucks,2021-02-10,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6598,API | Storefront Payment BFF | Payment | GET eBucks request OTP | eBucks,2021-02-10,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6599,API | Storefront Payment BFF | Payment | Get eBucks request OTP 400 type error | eBucks,2021-02-10,2021-02-10,Not automated,,leroy.hanslo@takealot.com
+QA-6600,API | Storefront Payment BFF | Payment | Get eBucks request OTP 500 type error | eBucks,2021-02-10,2021-02-10,Not automated,,leroy.hanslo@takealot.com
+QA-6619,API | Storefront Ads BFF | Sponsored ads products,2021-02-11,2021-02-11,Not automated,,meimoen.adams@takealot.com
+QA-6620,API | Storefront Ads BFF | Sponsored ads products | Success,2021-02-11,2021-02-11,Automation Candidate,,meimoen.adams@takealot.com
+QA-6621,API | Storefront Ads BFF | Sponsored ads products | No ads,2021-02-11,2021-02-11,Automation Candidate,,meimoen.adams@takealot.com
+QA-6622,API | Storefront Ads BFF | Sponsored ads products | Invalid PLID value,2021-02-11,2021-02-11,Automation Candidate,,meimoen.adams@takealot.com
+QA-6623,Desktop | Order Confirmation | Share Swiper,2021-02-11,2021-02-11,Not automated,,pinkie.dyantyi@takealot.com
+QA-6624,API | Storefront Ads BFF | Sponsored ads products | Missing required parameter,2021-02-11,2021-02-11,Automation Candidate,,meimoen.adams@takealot.com
+QA-6625,API | Storefront Ads BFF | Sponsored ads products | Blank required value,2021-02-11,2021-02-11,Automation Candidate,,meimoen.adams@takealot.com
+QA-6626,API | Storefront Ads BFF | Sponsored ads products | No PLID value,2021-02-11,2021-02-11,Automation Candidate,,meimoen.adams@takealot.com
+QA-6659,Session Management | Expired token,2021-02-16,2021-02-16,Not automated,,pinkie.dyantyi@takealot.com
+QA-6687,WEB | Nightwatch Master Critical execution,2021-02-16,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6688,WEB | Nightwatch Production Critical execution,2021-02-16,2021-02-16,Not automated,,leroy.hanslo@takealot.com
+QA-6707,Recommendations | PDP | Do not promote other items | guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6708,Recommendations | Cart | Do not promote other items | guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6709,Recommendations | wishlists | Do not promote other items | guest user,2021-02-18,2021-02-18,Not automated,,meimoen.adams@takealot.com
+QA-6714,Recommendations | PDP | products with recommendations | guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6715,Recommendations | Add to cart | products with recommendations|  guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6716,Recommendations | Add to lists | products with recommendations| guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6717,Recommendations | PDP | products without recommendations | guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6718,Recommendations | Add to cart | products without recommendations|  guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6719,Recommendations | Add to lists | products without recommendations| guest user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6720,Recommendations | PDP | Do not promote other items | logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6721,Recommendations | Cart | Do not promote other items | logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6722,Recommendations | wishlists | Do not promote other items | logged in user,2021-02-18,2021-02-18,Not automated,,meimoen.adams@takealot.com
+QA-6723,Recommendations | PDP | products with recommendations | logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6724,Recommendations | Add to cart | products with recommendations|  logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6725,Recommendations | Add to lists | products with recommendations| logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6726,Recommendations | PDP | products without recommendations | logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6727,Recommendations | Add to cart | products without recommendations|  logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-6728,Recommendations | Add to lists | products without recommendations| logged in user,2021-02-18,2021-02-18,Automation Candidate,,meimoen.adams@takealot.com
+QA-7362,WEB | Footer | MR D footer link functionality,2021-02-26,2021-03-01,Not automated,,Nkhabiseng.Mabaleka@takealot.com
+QA-7440,"Address Book | My Account, Returns & Checkout | Save Button",2021-03-01,2021-03-01,Not automated,,pinkie.dyantyi@takealot.com
+QA-7446,API | Storefront Product BFF | Product details | listing price Null,2021-03-03,2021-03-10,Automation Candidate,,meimoen.adams@takealot.com
+QA-7463,Desktop | Mobi | Orders | Order Tracking Link,2021-03-04,2021-03-04,Not automated,,pinkie.dyantyi@takealot.com
+QA-7484,UI | PDP | Product details | listing price Null,2021-03-05,2021-03-05,Automation Candidate,,meimoen.adams@takealot.com
+QA-7841,Web | SOT | Update and adding of videos,2021-03-12,2021-03-12,Not automated,,pinkie.dyantyi@takealot.com

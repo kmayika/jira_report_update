@@ -28,11 +28,13 @@ def update_google_sheet(file, **kwargs):
     content = open(file, 'r').read()
     gc.import_csv(sheet.id, content)
 
-def generate_sheet_data(jql):
+def generate_sheet_data(jql, **kwargs):
     with NamedTemporaryFile(suffix='.csv', mode='w+') as csvfile:
+    # with open('text.csv', 'w+') as csvfile:
         worksheet = csv.writer(csvfile, delimiter=',')
         worksheet.writerow(['key', 'title', 'created', 'updated', 'automation_status', 'label','reporter'])
-        issues = get_issues(jql, start_at=0, max_results=5)
+        issues = get_issues(jql, start_at=kwargs['start_at'], max_results=10000)
+        print(issues)
         for issue in issues:
             key = issue.key
             # print(issue.raw)
@@ -54,7 +56,7 @@ def main(argv):
     jira_password = ''
     extra_args = {}
     try:
-        opts, args = getopt.getopt(argv, "u:p:f:")
+        opts, args = getopt.getopt(argv, "u:p:f:s:")
         if opts == [] or '-u' not in dict(opts) or '-p' not in dict(opts) :
             print('your jira username (-u) and password (-p) must be passed as arguments\nUsage:\ngenerate_jira_report.py -u <jira_username> -p <jira_password> -f <jira_filter>')
             sys.exit(2)
@@ -68,6 +70,8 @@ def main(argv):
             jira_password = arg
         elif opt == '-f':
             extra_args['filter'] = arg
+        elif opt == '-s':
+            extra_args['start_at'] = arg
         
     return jira_username, jira_password, extra_args
 
@@ -80,4 +84,5 @@ if __name__ == '__main__':
     jira = JIRA(options={"server":server}, basic_auth=(username, password))
 
     jql = extras.get('filter') if extras != {} else 'project = "Quality Assurance - Engineering" and issuetype = "Test Case Template" and reporter in ("meimoen.adams@takealot.com", "leroy.hanslo@takealot.com", "rifaat.royepen@takealot.com", "Nkhabiseng.Mabaleka@takealot.com", "pinkie.dyantyi@takealot.com") and Automation != null ORDER BY created desc'
-    generate_sheet_data(jql)
+    start_at = extras.get('start_at') if extras != {} else 0
+    generate_sheet_data(jql, start_at=start_at)
