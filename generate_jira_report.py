@@ -85,4 +85,4 @@ if __name__ == '__main__':
 
     jql = extras.get('filter') if extras != {} else 'project = "Quality Assurance - Engineering" and issuetype = "Test Case Template" and reporter in ("meimoen.adams@takealot.com", "leroy.hanslo@takealot.com", "rifaat.royepen@takealot.com", "Nkhabiseng.Mabaleka@takealot.com", "pinkie.dyantyi@takealot.com") and Automation != null ORDER BY created desc'
     start_at = extras.get('start_at') if extras != {} else 0
-    generate_sheet_data(jql, start_at=start_at)
+    generate_sheet_data(jql, start_at=start_at, max_value=10000)
