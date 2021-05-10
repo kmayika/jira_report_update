@@ -18,5 +18,5 @@ To run this script you will first need to create a service account and auth cred
 # Running the script
 
 ```
-$ python generate_jira_report.py -u <jira_username> -p <jira_password> -f <jira_filter>
+$ python generate_jira_report.py -u <jira_username> -p <jira_password> -f <jira_filter> -d <date-created>
 ```
